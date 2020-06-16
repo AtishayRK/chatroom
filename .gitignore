@@ -1,0 +1,6 @@
+node_modules
+/angapp/e2e
+/angapp/node_modules
+/angapp/src/assets
+/angapp/src/environments
+
